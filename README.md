@@ -6,6 +6,8 @@
 
 # 如何安装环境
 
+ps:若使用exe无需安装任何环境
+
 将项目克隆到本地
 
 git clone https://github.com/Azizi030/FxloudongCTF-Poc.git
